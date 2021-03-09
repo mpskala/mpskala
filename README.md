@@ -4,8 +4,8 @@
 **mpskala/mpskala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on my Mobile App Dev unit.
-- 🌱 I’m currently learning React Native.
+- 🔭 I’m currently working on my dissertation project.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about whatever you're interested in. :)
 - 📫 How to reach me: [@mpskala](https://twitter.com/mpskala).
 - ⚡ Fun fact: fish can hear you thinking just before you sneeze.
