@@ -4,8 +4,8 @@
 **mpskala/mpskala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a Junior Developer @Tifo.
-- 🌱 I’m currently learning C#.
+- 🔭 I’m currently travelling around South East Asia.
+- 🌱 I’m currently learning Muay Thai.
 - 💬 Ask me about whatever you're interested in. :)
 - 📫 How to reach me: [@mpskala](https://twitter.com/mpskala).
 - ⚡ Fun fact: fish can hear you thinking just before you sneeze.
