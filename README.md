@@ -4,8 +4,8 @@
 **mpskala/mpskala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently travelling around South East Asia.
-- 🌱 I’m currently learning Muay Thai.
+- 🔭 I’m currently a Frontend Developer for [FootAsylum](https://github.com/footasylum).
+- 🌱 I’m currently training for a 25 minute 5k.
 - 💬 Ask me about whatever you're interested in. :)
 - 📫 How to reach me: [@mpskala](https://twitter.com/mpskala).
 - ⚡ Fun fact: fish can hear you thinking just before you sneeze.
