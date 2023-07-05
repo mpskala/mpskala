@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently a Frontend Developer for [FootAsylum](https://github.com/footasylum).
-- 🌱 I’m currently training for a 25 minute 5k.
+- 🌱 I’m currently training for a marathon.
 - 💬 Ask me about whatever you're interested in. :)
 - 📫 How to reach me: [@mpskala](https://twitter.com/mpskala).
 - ⚡ Fun fact: fish can hear you thinking just before you sneeze.
