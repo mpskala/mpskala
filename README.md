@@ -4,7 +4,7 @@
 **mpskala/mpskala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a Frontend Developer for [FootAsylum](https://github.com/footasylum).
+- 🔭 I’m a Frontend Developer for [FootAsylum](https://github.com/footasylum).
 - 🌱 I’m currently training for a marathon.
 - 💬 Ask me about whatever you're interested in. :)
 - 📫 How to reach me: [@mpskala](https://twitter.com/mpskala).
